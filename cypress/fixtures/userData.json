@@ -1,0 +1,52 @@
+{
+  "username": "shubham@25",
+  "password": "Test@25",
+  "orderDetails": {
+    "name": "Your Name",
+    "country": "Your Country",
+    "city": "Your City",
+    "creditCard": "1234567890123456",
+    "month": "12",
+    "year": "2026"
+  },
+  "alternateOrderDetails": {
+    "name": "Alternate Name",
+    "country": "Your Country",
+    "city": "Your City",
+    "creditCard": "9876543210123456",
+    "month": "06",
+    "year": "2027"
+  },
+  "requiredOnlyDetails": {
+    "name": "Your Name",
+    "country": "",
+    "city": "",
+    "creditCard": "1234567890123456",
+    "month": "",
+    "year": ""
+  },
+  "emptyOrderDetails": {
+    "name": "",
+    "country": "",
+    "city": "",
+    "creditCard": "",
+    "month": "",
+    "year": ""
+  },
+  "missingNameDetails": {
+    "name": "",
+    "country": "Your Country",
+    "city": "Your City",
+    "creditCard": "1234567890123456",
+    "month": "12",
+    "year": "2026"
+  },
+  "missingCardDetails": {
+    "name": "Your Name",
+    "country": "Your Country",
+    "city": "Your City",
+    "creditCard": "",
+    "month": "12",
+    "year": "2026"
+  }
+}
